@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contatos Alves</string>
+    <string name="action_settings">Settings</string>
+    <string name="nome">Nome</string>
+    <string name="email">E-mail</string>
+    <string name="telefone">Telefone</string>
+    <string name="endereço">Endereço</string>
+    <string name="site">Site</string>
+    <string name="botaoCadastro">Adicionar Contato</string>
+</resources>
